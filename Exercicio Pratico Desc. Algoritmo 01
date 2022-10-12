@@ -1,0 +1,17 @@
+Algoritmo "Meu Nome"
+// Disciplina   : Criação de Algoritmos
+// Professor   : Franklin Portela
+// Descrição   : Introdução a Pseudocódigo
+// Autor(a)    : Jackeline Kaneko
+// Data atual  : 12/10/2022
+Var
+// Seção de Declarações das variáveis 
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+Escreva("Jaky Kaneko")
+
+
+Fimalgoritmo
